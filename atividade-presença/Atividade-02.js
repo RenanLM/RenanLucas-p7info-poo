@@ -1,3 +1,4 @@
+
 function Decimal(value) {
     return value.toString(10);
 }
