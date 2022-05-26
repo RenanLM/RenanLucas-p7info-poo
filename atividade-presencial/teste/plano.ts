@@ -1,4 +1,6 @@
-import { Ponto_A } from "./hello";
+import { Ponto_AB } from "./Quadrilater";
+import { Ponto } from "./Ponto";
 
-let teste = new Ponto_A(2, 3);
+let teste = new Ponto(12, 13);
+
 teste.pertenceArea();
